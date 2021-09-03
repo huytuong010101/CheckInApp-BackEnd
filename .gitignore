@@ -3,3 +3,4 @@ identity_images
 venv
 *.db
 students.txt
+config.py
