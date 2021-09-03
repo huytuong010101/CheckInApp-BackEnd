@@ -1,0 +1,5 @@
+checkin_images
+identity_images
+venv
+*.db
+students.txt
